@@ -10,7 +10,8 @@ int main()
 {
 	printf ("This pgm is for testing GIT version control\n");
 	printf ("Step 1\n");
-	printf ("Step 2");
+	printf ("Step 2\n");
+	printf ("Step 3\n");
 	return 0;
 }
 
