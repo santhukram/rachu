@@ -16,9 +16,15 @@ int main()
 	for (i = 0; i<=2; i++)
 		{
 		printf("%d\n",i);
+
 		}
 	printf ("Step 4\n");
 	printf ("Step 5\n");
+
+	for (i = 3; i<=5; i++)
+		{
+		printf("%d\n",i);
+		}
 
 	return 0;
 }
