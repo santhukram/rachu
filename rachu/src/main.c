@@ -8,8 +8,8 @@
 #include<stdio.h>
 int main()
 {
-	printf ("This pgm is for testing GIT version control");
-
+	printf ("This pgm is for testing GIT version control\n");
+	printf ("Step 1");
 	return 0;
 }
 
